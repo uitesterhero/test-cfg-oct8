@@ -2,7 +2,7 @@ version: 1.0
 app:
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
-  # number of instances
+  # number of instances force
   instances:
     # q: consider availability zones? 
 
